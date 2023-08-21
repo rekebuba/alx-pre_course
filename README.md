@@ -40,6 +40,6 @@
 
 ###
 
-<p align="left">I'm now a ALX Student, this is my first repository as a full-stack engineer.</p>
+<p align="left">With each line of code I write and each problem I solve, I am confident that I am building a strong foundation for a successful career.</p>
 
 ###
